@@ -4,3 +4,9 @@
 .subtitles {
     font-style: oblique;
 }
+
+(li > ul):nth-child(2n) {
+    color:red;
+}
+
+
